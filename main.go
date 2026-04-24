@@ -38,6 +38,7 @@ func main() {
 
 	fmt.Println("После фильтра\n Ожидаю все контакты кроме Вахи")
 	book.Filter()
+	fmt.Println("new")
 	
 
 }
